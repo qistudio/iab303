@@ -20,7 +20,7 @@ def learning_checkin(str_code = 'CONF'):
     description = adj_descriptions.get(str_code, 'confident')  # 'confident' is the default if the code is not found
     
     # Prompt user for input
-    number = input(f"From a scale of 0 (least {description}) and 10 (most {description}), how will you rate your experience in learning the content above: ")
+    number = input(f"On a scale of 0 (least {description}) to 10 (most {description}), how would you rate your experience in learning the content above: ")
     
     # Validate input
     while True:
