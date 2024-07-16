@@ -1,0 +1,398 @@
+fuelType,rating,renterTripsTaken,reviewCount,location.city,rate.daily,vehicle.make,vehicle.model,vehicle.type
+ELECTRIC,5,3,3,Agnes Water,134.3,Tesla,Model 3,car
+ELECTRIC,5,36,33,Agnes Water,163.2,Tesla,Model 3,car
+ELECTRIC,5,89,83,Agnes Water,185.3,Tesla,Model 3,car
+ELECTRIC,4.97,70,64,Agnes Water,185.3,Tesla,Model 3,car
+ELECTRIC,4.73,41,33,Agnes Water,185.3,Tesla,Model 3,car
+ELECTRIC,4.95,113,80,Agnes Water,202.3,Tesla,Model X,suv
+ELECTRIC,4.85,50,40,Agnes Water,202.3,Tesla,Model X,suv
+ELECTRIC,5,3,2,Agnes Water,249.9,Tesla,Model X,suv
+ELECTRIC,5,28,25,Agnes Water,253.3,Tesla,Model X,suv
+ELECTRIC,4.96,54,49,Agnes Water,270.3,Tesla,Model X,suv
+ELECTRIC,5,43,35,Agnes Water,270.3,Tesla,Model X,suv
+PETROL,4.87,25,23,Agnes Water,102,BMW,3 Series,car
+PETROL,5,20,18,Agnes Water,144.5,Mercedes-Benz,C-Class,car
+PETROL,4.95,26,22,Agnes Water ,103.7,BMW,5 Series,car
+PETROL,4.91,79,69,Agnes Water ,117.3,Mercedes-Benz,GLA-Class,suv
+ELECTRIC,4,5,4,Brisbane,151.3,Tesla,Model 3,car
+ELECTRIC,4.74,36,34,Brisbane,153,Tesla,Model 3,car
+ELECTRIC,4.99,113,107,Brisbane,168.3,Tesla,Model 3,car
+ELECTRIC,5,22,19,Brisbane,168.3,Tesla,Model 3,car
+ELECTRIC,4.83,35,29,Brisbane,202.3,Tesla,Model 3,car
+ELECTRIC,4.98,112,101,Brisbane,204,Tesla,Model 3,car
+ELECTRIC,4.99,84,76,Brisbane,209.1,Tesla,Model 3,car
+ELECTRIC,5,8,7,Brisbane,215.9,Tesla,Model 3,car
+ELECTRIC,4.81,18,16,Brisbane,226.1,Tesla,Model 3,car
+ELECTRIC,5,6,5,Brisbane,227.8,Tesla,Model 3,car
+ELECTRIC,4.95,76,66,Brisbane,229.5,Tesla,Model 3,car
+ELECTRIC,4.98,61,53,Brisbane,234.6,Tesla,Model 3,car
+ELECTRIC,5,33,29,Brisbane,283.9,Tesla,Model 3,car
+ELECTRIC,4.89,12,9,Brisbane,306,Tesla,Model 3,car
+ELECTRIC,4.92,66,61,Brisbane,144.5,Tesla,Model S,car
+ELECTRIC,4.9,126,103,Brisbane,161.5,Tesla,Model S,car
+ELECTRIC,4.94,59,53,Brisbane,170,Tesla,Model S,car
+ELECTRIC,4.94,23,16,Brisbane,170,Tesla,Model S,car
+ELECTRIC,5,19,14,Brisbane,176.8,Tesla,Model S,car
+ELECTRIC,5,83,74,Brisbane,321.3,Tesla,Model S,car
+ELECTRIC,4.97,123,116,Brisbane,168.3,Tesla,Model X,suv
+ELECTRIC,5,1,1,Brisbane,234.6,Tesla,Model X,suv
+ELECTRIC,4.86,44,36,Brisbane,238,Tesla,Model X,suv
+ELECTRIC,4.91,15,11,Brisbane,272,Tesla,Model X,suv
+ELECTRIC,4.98,148,127,Brisbane,282.2,Tesla,Model X,suv
+ELECTRIC,5,25,25,Brisbane,295.8,Tesla,Model X,suv
+ELECTRIC,5,17,14,Brisbane,317.9,Tesla,Model X,suv
+ELECTRIC,5,56,48,Brisbane,397.8,Tesla,Model X,suv
+ELECTRIC,5,8,6,Brisbane,452.2,Tesla,Model X,suv
+ELECTRIC,5,2,2,Brisbane,508.3,Tesla,Model X,suv
+ELECTRIC,5,6,6,Brisbane,261.8,Tesla,Model Y,suv
+ELECTRIC,5,3,2,Brisbane,261.8,Tesla,Model Y,suv
+HYBRID,5,55,47,Brisbane,499.8,BMW,i8,car
+HYBRID,5,51,44,Brisbane,93.5,Lexus,CT 200h,car
+PETROL,5,40,34,Brisbane,137.7,BMW,2 Series,car
+PETROL,5,47,41,Brisbane,142.8,BMW,2 Series,car
+PETROL,5,31,24,Brisbane,142.8,BMW,2 Series,car
+PETROL,4.91,191,160,Brisbane,149.6,BMW,2 Series,car
+PETROL,4.93,110,89,Brisbane,149.6,BMW,3 Series,car
+PETROL,4.96,86,77,Brisbane,98.6,BMW,4 Series,car
+PETROL,4.94,37,34,Brisbane,136,BMW,4 Series,car
+PETROL,4.98,60,54,Brisbane,176.8,BMW,4 Series,car
+PETROL,4.57,8,7,Brisbane,183.6,BMW,7 Series,car
+PETROL,4,1,1,Brisbane,193.8,BMW,7 Series,car
+PETROL,5,12,12,Brisbane,229.5,BMW,M3,car
+PETROL,5,54,49,Brisbane,255,BMW,M3,car
+PETROL,5,22,20,Brisbane,185.3,BMW,M4,car
+PETROL,4.92,234,195,Brisbane,202.3,BMW,M4,car
+PETROL,5,98,94,Brisbane,217.6,BMW,M4,car
+PETROL,4.95,144,124,Brisbane,219.3,BMW,M4,car
+PETROL,4.82,37,33,Brisbane,232.9,BMW,M4,car
+PETROL,4.87,108,85,Brisbane,270.3,BMW,M4,car
+PETROL,5,40,34,Brisbane,112.2,BMW,X1,suv
+PETROL,4.92,168,146,Brisbane,173.4,BMW,X5,suv
+PETROL,5,3,3,Brisbane,168.3,Land Rover,LR4,suv
+PETROL,5,63,57,Brisbane,151.3,Land Rover,Range Rover Sport,suv
+PETROL,5,6,5,Brisbane,188.7,Land Rover,Range Rover Sport,suv
+PETROL,5,92,79,Brisbane,251.6,Land Rover,Range Rover Sport,suv
+PETROL,4.81,28,27,Brisbane,508.3,Land Rover,Range Rover Sport,suv
+PETROL,4.88,21,17,Brisbane,136,Lexus,GX,suv
+PETROL,5,38,36,Brisbane,297.5,Lexus,LC 500,car
+PETROL,4.98,61,48,Brisbane,302.6,Lexus,LC 500,car
+PETROL,5,1,1,Brisbane,98.6,Lexus,RX 350L,suv
+PETROL,4.93,33,28,Brisbane,355.3,Mercedes-Benz,AMG GT,car
+PETROL,5,4,4,Brisbane,98.6,Mercedes-Benz,C-Class,car
+PETROL,4.99,124,110,Brisbane,136,Mercedes-Benz,C-Class,car
+PETROL,5,24,20,Brisbane,170,Mercedes-benz,C-Class,car
+PETROL,4.99,92,80,Brisbane,180.2,Mercedes-Benz,C-Class,car
+PETROL,5,48,44,Brisbane,190.4,Mercedes-benz,C-Class,car
+PETROL,5,18,17,Brisbane,195.5,Mercedes-Benz,C-Class,car
+PETROL,4.86,42,37,Brisbane,289,Mercedes-Benz,C-Class,car
+PETROL,4.84,90,77,Brisbane,119,Mercedes-Benz,CL-Class,car
+PETROL,5,24,19,Brisbane,136,Mercedes-Benz,CLA-Class,car
+PETROL,4.94,57,53,Brisbane,153,Mercedes-benz,CLA-Class,car
+PETROL,5,14,8,Brisbane,168.3,Mercedes-Benz,E-Class,car
+PETROL,5,24,22,Brisbane,190.4,Mercedes-Benz,E-Class,car
+PETROL,5,109,98,Brisbane,98.6,Mercedes-Benz,GLC-Class,suv
+PETROL,5,9,7,Brisbane,268.6,Mercedes-benz,GLE-Class,suv
+PETROL,5,10,10,Brisbane,338.3,Mercedes-Benz,S-Class,car
+PETROL,4.99,89,77,Brisbane,253.3,Mercedes-Benz,SL-Class,car
+PETROL,4.97,79,70,Brisbane,127.5,Mercedes-Benz,SLK-Class,car
+ELECTRIC,5,67,64,Bundaberg,151.3,Tesla,Model 3,car
+ELECTRIC,5,14,11,Bundaberg,198.9,Tesla,Model 3,car
+ELECTRIC,5,13,12,Bundaberg,221,Tesla,Model 3,car
+ELECTRIC,5,18,15,Bundaberg,222.7,Tesla,Model 3,car
+ELECTRIC,4.73,16,15,Bundaberg,243.1,Tesla,Model S,car
+HYBRID,5,20,16,Bundaberg,382.5,BMW,i8,car
+HYBRID,5,32,26,Bundaberg,595,BMW,i8,car
+PETROL,5,10,6,Bundaberg,110.5,BMW,1 Series,car
+PETROL,4.94,56,51,Bundaberg,134.3,BMW,1 Series,car
+PETROL,4.6,5,5,Bundaberg,119,BMW,3 Series,car
+PETROL,5,49,44,Bundaberg,295.8,BMW,4-Series,car
+PETROL,5,1,1,Bundaberg,151.3,BMW,5 Series,car
+PETROL,5,6,5,Bundaberg,280.5,BMW,M4,car
+PETROL,4.6,11,10,Bundaberg,331.5,BMW,M4,car
+PETROL,5,17,16,Bundaberg,280.5,Land Rover,Range Rover Sport,suv
+PETROL,5,7,4,Bundaberg,253.3,Lexus,IS 350,car
+PETROL,4.83,6,6,Bundaberg,71.4,Mercedes-Benz,C-Class,car
+PETROL,5,4,3,Bundaberg,122.4,Mercedes-Benz,C-Class,car
+PETROL,5,2,2,Bundaberg,153,Mercedes-Benz,C-Class,car
+PETROL,4.91,24,23,Bundaberg,115.6,Mercedes-Benz,CLA-Class,car
+PETROL,5,43,36,Bundaberg,62.9,Mercedes-Benz,E-Class,car
+PETROL,5,13,12,Bundaberg,139.4,Mercedes-Benz,E-Class,car
+PETROL,5,3,3,Bundaberg,831.3,Mercedes-benz,G-Class,suv
+PETROL,4.92,17,13,Bundaberg,147.9,Mercedes-Benz,GLE-Class,suv
+PETROL,4.67,6,3,Bundaberg,79.9,Mercedes-Benz,M-Class,suv
+PETROL,5,6,4,Bundaberg,170,Mercedes-Benz,M-Class,suv
+PETROL,5,8,8,Bundaberg,117.3,Mercedes-Benz,SLK-Class,car
+ELECTRIC,5,81,72,Gladstone,161.5,Tesla,Model 3,car
+ELECTRIC,5,21,19,Gladstone,180.2,Tesla,Model 3,car
+ELECTRIC,4.97,159,132,Gladstone,374,Tesla,Model 3,car
+ELECTRIC,4.96,92,73,Gladstone,154.7,Tesla,Model S,car
+ELECTRIC,5,25,17,Gladstone,161.5,Tesla,Model S,car
+ELECTRIC,4.78,202,151,Gladstone,234.6,Tesla,Model S,car
+ELECTRIC,4.6,17,10,Gladstone,253.3,Tesla,Model S,car
+ELECTRIC,5,33,28,Gladstone,423.3,Tesla,Model S,car
+ELECTRIC,5,38,26,Gladstone,209.1,Tesla,Model X,suv
+ELECTRIC,4.88,110,83,Gladstone,253.3,Tesla,Model X,suv
+ELECTRIC,4.93,51,43,Gladstone,253.3,Tesla,Model X,suv
+HYBRID,4.77,49,35,Gladstone,117.3,BMW,5-Series,car
+HYBRID,4.91,77,69,Gladstone,270.3,BMW,i8,car
+HYBRID,4.92,110,100,Gladstone,304.3,BMW,i8,car
+HYBRID,5,10,8,Gladstone,467.5,Mercedes-Benz,S-Class,car
+PETROL,4.83,140,95,Gladstone,100.3,BMW,3 Series,car
+PETROL,4.97,38,33,Gladstone,93.5,BMW,3-Series,car
+PETROL,5,19,19,Gladstone,158.1,BMW,7 Series,car
+PETROL,5,13,11,Gladstone,338.3,BMW,7 Series,car
+PETROL,4.87,19,15,Gladstone,391,BMW,7 Series,car
+PETROL,4.95,25,22,Gladstone,168.3,BMW,M4,car
+PETROL,4.94,42,36,Gladstone,202.3,BMW,M4,car
+PETROL,4.89,83,64,Gladstone,100.3,BMW,Z4,car
+PETROL,4.97,82,71,Gladstone,127.5,BMW,Z4,car
+PETROL,4.88,68,49,Gladstone,93.5,Mercedes-Benz,C-Class,car
+PETROL,4.93,86,72,Gladstone,134.3,Mercedes-Benz,C-Class,car
+PETROL,4.91,52,44,Gladstone,110.5,Mercedes-benz,CLA-Class,car
+PETROL,4.92,85,66,Gladstone,389.3,Mercedes-Benz,G-Class,suv
+PETROL,4.94,126,110,Gladstone,508.3,Mercedes-Benz,G-Class,suv
+PETROL,4.98,59,51,Gladstone,321.3,Mercedes-Benz,S-Class,car
+PETROL,4.83,123,96,Gladstone,130.9,Mercedes-Benz,SLK-Class,car
+ELECTRIC,5,10,10,Gold Coast,115.6,Tesla,Model 3,car
+ELECTRIC,,2,0,Gold Coast,115.6,Tesla,Model 3,car
+ELECTRIC,5,3,3,Gold Coast,125.8,Tesla,Model 3,car
+ELECTRIC,4.92,147,125,Gold Coast,134.3,Tesla,Model 3,car
+ELECTRIC,5,16,15,Gold Coast,151.3,Tesla,Model 3,car
+ELECTRIC,4.97,37,35,Gold Coast,153,Tesla,Model 3,car
+ELECTRIC,5,35,31,Gold Coast,161.5,Tesla,Model 3,car
+ELECTRIC,4.89,19,18,Gold Coast,161.5,Tesla,Model 3,car
+ELECTRIC,5,17,17,Gold Coast,168.3,Tesla,Model 3,car
+ELECTRIC,5,13,12,Gold Coast,168.3,Tesla,Model 3,car
+ELECTRIC,4.91,40,35,Gold Coast,170,Tesla,Model 3,car
+ELECTRIC,5,4,3,Gold Coast,175.1,Tesla,Model 3,car
+ELECTRIC,5,61,60,Gold Coast,185.3,Tesla,Model 3,car
+ELECTRIC,4.96,60,45,Gold Coast,253.3,Tesla,Model 3,car
+ELECTRIC,5,23,21,Gold Coast,270.3,Tesla,Model 3,car
+ELECTRIC,5,23,16,Gold Coast,314.5,Tesla,Model 3,car
+ELECTRIC,4.85,76,71,Gold Coast,117.3,Tesla,Model S,car
+ELECTRIC,4.82,29,22,Gold Coast,130.9,Tesla,Model S,car
+ELECTRIC,5,53,48,Gold Coast,151.3,Tesla,Model S,car
+ELECTRIC,5,17,12,Gold Coast,161.5,Tesla,Model S,car
+ELECTRIC,5,15,13,Gold Coast,185.3,Tesla,Model S,car
+ELECTRIC,5,1,1,Gold Coast,185.3,Tesla,Model S,car
+ELECTRIC,5,10,9,Gold Coast,195.5,Tesla,Model S,car
+ELECTRIC,5,1,1,Gold Coast,195.5,Tesla,Model S,car
+ELECTRIC,4.98,51,46,Gold Coast,202.3,Tesla,Model S,car
+ELECTRIC,4.9,130,106,Gold Coast,287.3,Tesla,Model S,car
+ELECTRIC,5,3,3,Gold Coast,236.3,Tesla,Model X,suv
+ELECTRIC,4.94,124,105,Gold Coast,287.3,Tesla,Model X,suv
+ELECTRIC,5,74,64,Gold Coast,304.3,Tesla,Model X,suv
+ELECTRIC,4.81,61,53,Gold Coast,304.3,Tesla,Model X,suv
+ELECTRIC,4.95,52,42,Gold Coast,304.3,Tesla,Model X,suv
+ELECTRIC,5,10,6,Gold Coast,678.3,Tesla,Model X,suv
+HYBRID,4.87,25,23,Gold Coast,83.3,BMW,I3,car
+HYBRID,5,150,138,Gold Coast,236.3,BMW,i8,car
+HYBRID,5,1,1,Gold Coast,161.5,Lexus,ES 300h,car
+HYBRID,5,24,21,Gold Coast,83.3,Lexus,Ux,suv
+HYBRID,4.87,44,38,Gold Coast,168.3,Porsche,Panamera,car
+PETROL,4.79,40,34,Gold Coast,71.4,BMW,3 Series,car
+PETROL,4.79,36,29,Gold Coast,110.5,BMW,3 Series,car
+PETROL,4.86,32,29,Gold Coast,117.3,BMW,3-Series,car
+PETROL,4.92,51,48,Gold Coast,127.5,BMW,4 Series,car
+PETROL,5,47,44,Gold Coast,95.2,BMW,4 Series Gran Coupe,car
+PETROL,5,57,54,Gold Coast,151.3,BMW,5 Series,car
+PETROL,5,4,4,Gold Coast,100.3,BMW,6 Series,car
+PETROL,4.9,10,10,Gold Coast,221,BMW,6 Series,car
+PETROL,5,36,30,Gold Coast,100.3,BMW,X1,suv
+PETROL,4.89,24,18,Gold Coast,100.3,BMW,X1,suv
+PETROL,4.91,15,11,Gold Coast,100.3,BMW,X1,suv
+PETROL,5,21,19,Gold Coast,83.3,BMW,X3,suv
+PETROL,4.94,17,17,Gold Coast,93.5,BMW,X5,suv
+PETROL,5,9,9,Gold Coast,253.3,BMW,X6 M,suv
+PETROL,5,5,3,Gold Coast,107.1,BMW,Z4,car
+PETROL,5,38,28,Gold Coast,149.6,BMW,Z4,car
+PETROL,4.9,42,39,Gold Coast,161.5,BMW,Z4,car
+PETROL,5,52,51,Gold Coast,134.3,Lexus,IS 200t,car
+PETROL,4.99,95,81,Gold Coast,159.8,Lexus,NX 300,suv
+PETROL,5,21,19,Gold Coast,100.3,Mercedes-Benz,C-Class,car
+PETROL,4.76,57,49,Gold Coast,117.3,Mercedes-Benz,C-Class,car
+PETROL,4.81,39,37,Gold Coast,88.4,Mercedes-Benz,GL-Class,suv
+PETROL,5,44,41,Gold Coast,119,Mercedes-Benz,GLA-Class,suv
+PETROL,5,2,2,Gold Coast,83.3,Mercedes-Benz,M-Class,suv
+ELECTRIC,4.85,60,55,Gympie,251.6,Tesla,Model 3,car
+ELECTRIC,4.79,36,28,Gympie,251.6,Tesla,Model 3,car
+ELECTRIC,5,43,39,Gympie,255,Tesla,Model 3,car
+ELECTRIC,5,5,3,Gympie,278.8,Tesla,Model 3,car
+ELECTRIC,4.96,84,75,Gympie,295.8,Tesla,Model 3,car
+ELECTRIC,5,9,8,Gympie,321.3,Tesla,Model 3,car
+ELECTRIC,4.89,151,128,Gympie,328.1,Tesla,Model 3,car
+ELECTRIC,4.88,113,92,Gympie,328.1,Tesla,Model 3,car
+ELECTRIC,4.86,107,96,Gympie,336.6,Tesla,Model 3,car
+ELECTRIC,5,28,28,Gympie,323,Tesla,Model S,car
+ELECTRIC,5,10,6,Gympie,399.5,Tesla,Model S,car
+HYBRID,4.97,40,39,Gympie,544,BMW,i8,car
+HYBRID,5,25,21,Gympie,593.3,BMW,i8,car
+HYBRID,4.91,40,34,Gympie,722.5,BMW,I8,car
+HYBRID,3.67,5,3,Gympie,238,Porsche,Cayenne,suv
+PETROL,4.95,70,65,Gympie,134.3,BMW,3 Series,car
+PETROL,4.99,92,83,Gympie,209.1,BMW,5 Series,car
+PETROL,5,5,5,Gympie,272,BMW,5-Series,car
+PETROL,4.94,111,103,Gympie,270.3,BMW,M3,car
+PETROL,4.97,71,63,Gympie,187,BMW,X5,suv
+PETROL,4.92,106,95,Gympie,304.3,Land Rover,Range Rover Sport,suv
+PETROL,4.94,147,121,Gympie,382.5,Land Rover,Range Rover Velar,suv
+PETROL,4.83,64,54,Gympie,241.4,Mercedes-Benz,C-Class,car
+PETROL,5,7,6,Gympie,187,Mercedes-Benz,E-Class,car
+PETROL,4.91,63,53,Gympie,272,Mercedes-Benz,E-Class,car
+PETROL,5,1,1,Gympie,593.3,Mercedes-Benz,G-Class,suv
+PETROL,5,86,70,Gympie,680,Mercedes-Benz,G-Class,suv
+ELECTRIC,4.94,18,16,Hervey Bay,246.5,Tesla,Model 3,car
+ELECTRIC,4,5,4,Hervey Bay,314.5,Tesla,Model 3,car
+PETROL,5,55,50,Hervey Bay,176.8,BMW,2 Series,car
+PETROL,4.92,56,51,Hervey Bay,149.6,BMW,3 Series,car
+PETROL,4.88,217,188,Hervey Bay,166.6,BMW,4 Series,car
+PETROL,5,7,6,Hervey Bay,183.6,BMW,X5,suv
+PETROL,5,11,10,Hervey Bay,127.5,Mercedes-Benz,C-Class,car
+PETROL,5,4,4,Hervey Bay,136,Mercedes-Benz,C-Class,car
+PETROL,4.93,108,91,Hervey Bay,178.5,Mercedes-Benz,C-Class,car
+PETROL,5,9,7,Hervey Bay,166.6,Mercedes-Benz,CL-Class,car
+PETROL,4.76,162,140,Hervey Bay,190.4,Mercedes-Benz,CLA-Class,car
+PETROL,4.94,35,33,Hervey Bay,263.5,Mercedes-benz,GLC-Class,suv
+PETROL,4.94,17,17,Hervey Bay,413.1,Mercedes-benz,GLE-Class,suv
+PETROL,4.89,9,9,Hervey Bay,178.5,Mercedes-Benz,SLK-Class,car
+ELECTRIC,5,28,23,Maryborough,238,Tesla,Model 3,car
+ELECTRIC,5,6,5,Maryborough,170,Tesla,Model S,car
+ELECTRIC,4.94,19,18,Maryborough,340,Tesla,Model S,car
+PETROL,4.97,81,64,Maryborough,134.3,BMW,2 Series,car
+PETROL,4.98,57,51,Maryborough,105.4,BMW,3 Series,car
+PETROL,5,16,12,Maryborough,117.3,BMW,3 Series,car
+PETROL,4.99,208,164,Maryborough,151.3,BMW,4 Series,car
+PETROL,5,1,1,Maryborough,351.9,BMW,X5,suv
+PETROL,5,15,13,Maryborough,326.4,Land Rover,Range Rover,suv
+PETROL,5,32,26,Maryborough,425,Land Rover,Range Rover,suv
+PETROL,4.87,39,31,Maryborough,156.4,Lexus,GX,suv
+PETROL,5,4,4,Maryborough,425,Mercedes-Benz,AMG GT,car
+PETROL,5,16,11,Maryborough,270.3,Mercedes-Benz,C-Class,car
+PETROL,4.85,21,20,Maryborough,425,Mercedes-benz,C-Class,car
+PETROL,5,32,22,Maryborough,134.3,Mercedes-Benz,CLA-Class,car
+PETROL,5,10,9,Maryborough,115.6,Mercedes-Benz,E-Class,car
+PETROL,5,2,1,Maryborough,425,Mercedes-benz,GLS-Class,suv
+PETROL,5,9,7,Maryborough,255,Mercedes-Benz,S-Class,car
+PETROL,4.81,91,74,Maryborough,299.2,Mercedes-Benz,S-Class,car
+PETROL,5,20,20,Maryborough,391,Mercedes-Benz,S-Class,car
+PETROL,5,24,18,Maryborough,227.8,Mercedes-Benz,SLC-Class,car
+PETROL,5,218,181,Maryborough,151.3,Mercedes-Benz,SLK-Class,car
+ELECTRIC,5,15,11,Rockhampton,227.8,Tesla,Model 3,car
+ELECTRIC,5,23,21,Rockhampton,249.9,Tesla,Model 3,car
+ELECTRIC,5,21,19,Rockhampton,255,Tesla,Model 3,car
+ELECTRIC,4.94,18,18,Rockhampton,265.2,Tesla,Model 3,car
+ELECTRIC,4.79,99,78,Rockhampton,204,Tesla,Model S,car
+ELECTRIC,5,11,8,Rockhampton,283.9,Tesla,Model S,car
+ELECTRIC,5,6,5,Rockhampton,255,Tesla,Model X,suv
+ELECTRIC,4.89,56,47,Rockhampton,416.5,Tesla,Model X,suv
+HYBRID,5,6,2,Rockhampton,1020,BMW,i8,car
+PETROL,4.67,84,70,Rockhampton,79.9,BMW,3 Series,car
+PETROL,4.87,56,47,Rockhampton,204,BMW,4 Series,car
+PETROL,4.91,36,34,Rockhampton,168.3,BMW,4 Series Gran Coupe,car
+PETROL,5,13,13,Rockhampton,108.8,BMW,5 Series,car
+PETROL,4.98,54,44,Rockhampton,253.3,BMW,6 Series Gran Coupe,car
+PETROL,5,2,2,Rockhampton,340,BMW,7 Series,car
+PETROL,5,70,62,Rockhampton,331.5,BMW,M4,car
+PETROL,5,2,2,Rockhampton,166.6,BMW,X4,suv
+PETROL,4.79,45,38,Rockhampton,96.9,BMW,X5,suv
+PETROL,4.89,11,9,Rockhampton,255,BMW,X6,suv
+PETROL,5,52,44,Rockhampton,244.8,Land Rover,Range Rover,suv
+PETROL,4.93,19,15,Rockhampton,144.5,Land Rover,Range Rover Evoque,suv
+PETROL,5,17,11,Rockhampton,231.2,Land Rover,Range Rover Sport,suv
+PETROL,5,12,11,Rockhampton,238,Land Rover,Range Rover Sport,suv
+PETROL,4.88,88,74,Rockhampton,255,Land Rover,Range Rover Sport,suv
+PETROL,4.86,7,7,Rockhampton,255,Land Rover,Range Rover Velar,suv
+PETROL,4.92,45,40,Rockhampton,168.3,Lexus,IS 200t,car
+PETROL,5,35,35,Rockhampton,510,Mercedes-Benz,AMG GT,car
+PETROL,5,39,31,Rockhampton,110.5,Mercedes-Benz,C-Class,car
+PETROL,4.93,18,14,Rockhampton,166.6,Mercedes-benz,C-Class,car
+PETROL,4.86,73,63,Rockhampton,204,Mercedes-Benz,CLS-Class,car
+PETROL,4.94,39,36,Rockhampton,144.5,Mercedes-Benz,E-Class,car
+PETROL,4.86,91,69,Rockhampton,219.3,Mercedes-Benz,E-Class,car
+PETROL,5,21,19,Rockhampton,260.1,Mercedes-Benz,E-Class,car
+PETROL,4.83,9,6,Rockhampton,321.3,Mercedes-Benz,S-Class,car
+ELECTRIC,5,18,13,Sunshine Coast,125.8,Tesla,Model 3,car
+ELECTRIC,5,32,31,Sunshine Coast,134.3,Tesla,Model 3,car
+ELECTRIC,4.99,95,88,Sunshine Coast,136,Tesla,Model 3,car
+ELECTRIC,5,59,54,Sunshine Coast,139.4,Tesla,Model 3,car
+ELECTRIC,5,42,41,Sunshine Coast,139.4,Tesla,Model 3,car
+ELECTRIC,4.93,91,69,Sunshine Coast,168.3,Tesla,Model 3,car
+ELECTRIC,5,5,4,Sunshine Coast,253.3,Tesla,Model 3,car
+ELECTRIC,5,22,20,Sunshine Coast,389.3,Tesla,Model 3,car
+ELECTRIC,4.81,28,26,Sunshine Coast,170,Tesla,Model X,suv
+ELECTRIC,4.91,117,91,Sunshine Coast,210.8,Tesla,Model X,suv
+ELECTRIC,4.95,94,83,Sunshine Coast,210.8,Tesla,Model X,suv
+ELECTRIC,4.96,87,72,Sunshine Coast,210.8,Tesla,Model X,suv
+ELECTRIC,4.86,35,22,Sunshine Coast,227.8,Tesla,Model X,suv
+ELECTRIC,4.94,19,16,Sunshine Coast,253.3,Tesla,Model X,suv
+ELECTRIC,5,17,16,Sunshine Coast,272,Tesla,Model X,suv
+ELECTRIC,5,18,17,Sunshine Coast,423.3,Tesla,Model X,suv
+HYBRID,5,35,32,Sunshine Coast,229.5,BMW,i8,car
+HYBRID,4.89,54,47,Sunshine Coast,74.8,Lexus,CT 200h,car
+PETROL,4.93,159,135,Sunshine Coast,85,BMW,3 Series,car
+PETROL,5,3,3,Sunshine Coast,100.3,BMW,4 Series,car
+PETROL,5,13,10,Sunshine Coast,102,BMW,4 Series,car
+PETROL,5,16,14,Sunshine Coast,110.5,BMW,4 Series,car
+PETROL,4.86,10,7,Sunshine Coast,139.4,BMW,4 Series,car
+PETROL,5,9,9,Sunshine Coast,170,BMW,4 Series,car
+PETROL,4.6,13,10,Sunshine Coast,105.4,BMW,5 Series,car
+PETROL,5,9,7,Sunshine Coast,117.3,BMW,7 Series,car
+PETROL,4.86,17,14,Sunshine Coast,76.5,BMW,X1,suv
+PETROL,4.97,128,91,Sunshine Coast,132.6,BMW,X3,suv
+PETROL,4.83,99,80,Sunshine Coast,83.3,BMW,X5,suv
+PETROL,5,10,7,Sunshine Coast,110.5,BMW,X5,suv
+PETROL,5,4,3,Sunshine Coast,122.4,BMW,X6,suv
+PETROL,5,6,6,Sunshine Coast,144.5,Land Rover,Range Rover,suv
+PETROL,4.97,45,35,Sunshine Coast,253.3,Land Rover,Range Rover,suv
+PETROL,4.84,107,88,Sunshine Coast,119,Lexus,GS 350,car
+PETROL,4.81,108,91,Sunshine Coast,119,Lexus,GX 460,suv
+PETROL,4.8,14,10,Sunshine Coast,66.3,Lexus,IS 250,car
+PETROL,4.8,159,133,Sunshine Coast,119,Lexus,IS 250,car
+PETROL,4.71,106,92,Sunshine Coast,68,Lexus,LX 570,suv
+PETROL,5,6,6,Sunshine Coast,76.5,Lexus,RC 350,car
+PETROL,5,3,1,Sunshine Coast,76.5,Lexus,RX 350,suv
+PETROL,5,5,2,Sunshine Coast,331.5,Mercedes-Benz,AMG GT,car
+PETROL,5,7,5,Sunshine Coast,71.4,Mercedes-Benz,C-Class,car
+PETROL,4.93,17,15,Sunshine Coast,76.5,Mercedes-Benz,C-Class,car
+PETROL,4.58,19,12,Sunshine Coast,85,Mercedes-Benz,C-Class,car
+PETROL,5,13,10,Sunshine Coast,85,Mercedes-Benz,C-Class,car
+PETROL,5,1,1,Sunshine Coast,85,Mercedes-Benz,C-Class,car
+PETROL,5,148,138,Sunshine Coast,125.8,Mercedes-Benz,C-Class,car
+PETROL,5,11,5,Sunshine Coast,93.5,Mercedes-Benz,E-Class,car
+PETROL,4.67,11,9,Sunshine Coast,93.5,Mercedes-Benz,E-Class,car
+PETROL,5,18,18,Sunshine Coast,100.3,Mercedes-Benz,E-Class,car
+PETROL,5,11,9,Sunshine Coast,102,Mercedes-Benz,E-Class,car
+PETROL,5,2,2,Sunshine Coast,122.4,Mercedes-Benz,E-Class,car
+PETROL,4.96,51,46,Sunshine Coast,287.3,Mercedes-Benz,G-Class,suv
+PETROL,5,4,4,Sunshine Coast,306,Mercedes-Benz,G-Class,suv
+PETROL,5,3,3,Sunshine Coast,83.3,Mercedes-benz,GLC-Class,suv
+PETROL,5,5,3,Sunshine Coast,102,Mercedes-Benz,GLC-Class,suv
+PETROL,4.8,7,5,Sunshine Coast,83.3,Mercedes-Benz,M-Class,suv
+PETROL,4.77,17,13,Sunshine Coast,161.5,Mercedes-Benz,S-Class,car
+ELECTRIC,5,3,3,Yeppoon,156.4,Tesla,Model 3,car
+ELECTRIC,5,7,6,Yeppoon,200.6,Tesla,Model 3,car
+ELECTRIC,5,1,1,Yeppoon,210.8,Tesla,Model 3,car
+ELECTRIC,4.97,85,71,Yeppoon,239.7,Tesla,Model 3,car
+ELECTRIC,4.96,25,25,Yeppoon,173.4,Tesla,Model S,car
+ELECTRIC,5,10,10,Yeppoon,399.5,Tesla,Model X,suv
+PETROL,5,5,5,Yeppoon,151.3,BMW,1 Series,car
+PETROL,4.96,31,25,Yeppoon,134.3,BMW,X1,suv
+PETROL,4.5,4,2,Yeppoon,340,Land Rover,Range Rover Evoque,suv
+PETROL,4.93,30,27,Yeppoon,433.5,Land Rover,Range Rover Velar,suv
+PETROL,5,9,8,Yeppoon,110.5,Lexus,ES 350,car
+PETROL,5,6,2,Yeppoon,202.3,Lexus,ES 350,car
+PETROL,4.79,67,61,Yeppoon,134.3,Mercedes-Benz,C-Class,car
+PETROL,5,1,1,Yeppoon,297.5,Mercedes-Benz,C-Class,car
+PETROL,4.95,22,22,Yeppoon,122.4,Mercedes-Benz,CLA-Class,car
+,,,,,,,,
+,,,Rockhampton,34,,,,
+,,,Yeppoon,15,,,,
+,,,Agnes Water,13,,,,
+,,,Gympie,27,,,,
+,,,Brisbane,81,,,,
+,,,Gladstone,31,,,,
+,,,Maryborough,22,,,,
+,,,Hervey Bay,14,,,,
+,,,Sunshine Coast,58,,,,
+,,,Gold Coast,61,,,,
+,,,Bundaberg,27,,,,
