@@ -1,0 +1,245 @@
+﻿Date,Zone,Area,Range,Product,Qty,Price
+1-Jan,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,33,49.50
+2-Jan,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,32,57.90
+4-Jan,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,87,73.25
+5-Jan,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,63,49.50
+7-Jan,Brisbane,Southern Suburbs,Barista,2kg Light Roast,58,54.75
+8-Jan,Gold Coast,Northern Suburbs,Standard,4kg Everyday Blend,29,31.5
+10-Jan,Brisbane,Northern Suburbs,Barista,2kg Light Roast,82,54.75
+11-Jan,Brisbane,Southern Suburbs,Cafe,2kg Cafe Single Origin,77,54.75
+13-Jan,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,38,57.90
+14-Jan,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,80,61.45
+16-Jan,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,54,49.50
+17-Jan,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,102,49.50
+19-Jan,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,149,73.25
+20-Jan,Brisbane,Northern Suburbs,Premium,2kg Single Origin Select,31,73.25
+22-Jan,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,51,49.50
+23-Jan,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,56,49.50
+25-Jan,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,100,49.50
+26-Jan,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,52,57.90
+28-Jan,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,28,45.00
+29-Jan,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,51,49.50
+31-Jan,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,36,57.90
+1-Feb,Gold Coast,Northern Suburbs,Standard,2kg Everyday Blend,24,45.00
+3-Feb,Gold Coast,Southern Suburbs,Barista,2kg Light Roast,31,54.75
+4-Feb,Brisbane,Southern Suburbs,Barista,2kg Smooth Blend,58,57.90
+6-Feb,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,28,73.25
+7-Feb,Brisbane,Southern Suburbs,Barista,2kg Light Roast,34,54.75
+9-Feb,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,44,49.50
+10-Feb,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,34,49.50
+12-Feb,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,23,49.50
+13-Feb,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,21,45.00
+15-Feb,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,27,45.00
+16-Feb,Sunshine Coast,Southern Suburbs,Barista,2kg Dark Blend,29,61.45
+18-Feb,Gold Coast,Southern Suburbs,Barista,2kg Smooth Blend,43,57.90
+19-Feb,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,68,49.50
+21-Feb,Gold Coast,Southern Suburbs,Barista,2kg Dark Blend,123,61.45
+22-Feb,Gold Coast,Southern Suburbs,Standard,4kg Everyday Blend,31,31.5
+24-Feb,Brisbane,Southern Suburbs,Cafe,2kg Cafe Single Origin,42,54.75
+25-Feb,Brisbane,Southern Suburbs,Barista,2kg Smooth Blend,30,57.90
+27-Feb,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,33,61.45
+28-Feb,Brisbane,Southern Suburbs,Barista,2kg Light Roast,232,54.75
+2-Mar,Brisbane,Northern Suburbs,Barista,2kg Light Roast,85,54.75
+2-Mar,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,68,54.75
+5-Mar,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,97,61.45
+5-Mar,Sunshine Coast,Northern Suburbs,Barista,2kg Dark Blend,30,61.45
+8-Mar,Sunshine Coast,Northern Suburbs,Cafe,2kg Cafe Single Origin,86,54.75
+8-Mar,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,61,49.50
+11-Mar,Sunshine Coast,Southern Suburbs,Standard,2kg Everyday Blend,41,45.00
+11-Mar,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,40,73.25
+14-Mar,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Blend,93,49.50
+14-Mar,Brisbane,Southern Suburbs,Barista,2kg Light Roast,86,54.75
+17-Mar,Gold Coast,Northern Suburbs,Standard,2kg Everyday Blend,47,45.00
+17-Mar,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,38,49.50
+20-Mar,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,103,49.50
+20-Mar,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,68,45.00
+23-Mar,Sunshine Coast,Southern Suburbs,Barista,2kg Light Roast,39,54.75
+23-Mar,Brisbane,Southern Suburbs,Standard,2kg Everyday Blend,33,45.00
+26-Mar,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Single Origin,103,54.75
+26-Mar,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,57,54.75
+29-Mar,Gold Coast,Southern Suburbs,Barista,2kg Dark Blend,193,61.45
+29-Mar,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,65,61.45
+1-Apr,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,118,49.50
+1-Apr,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,58,49.50
+4-Apr,Brisbane,Southern Suburbs,Standard,2kg Everyday Blend,68,45.00
+4-Apr,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,36,57.90
+7-Apr,Gold Coast,Southern Suburbs,Barista,2kg Dark Blend,123,61.45
+7-Apr,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,91,49.50
+10-Apr,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,90,49.50
+10-Apr,Brisbane,Northern Suburbs,Premium,2kg Single Origin Select,23,73.25
+13-Apr,Sunshine Coast,Southern Suburbs,Standard,2kg Everyday Blend,28,45.00
+13-Apr,Brisbane,Southern Suburbs,Premium,2kg Single Origin Select,21,73.25
+16-Apr,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,48,49.50
+16-Apr,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,48,49.50
+19-Apr,Gold Coast,Northern Suburbs,Standard,2kg Everyday Blend,134,45.00
+19-Apr,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,24,45.00
+22-Apr,Sunshine Coast,Southern Suburbs,Barista,2kg Light Roast,67,54.75
+22-Apr,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,20,49.50
+25-Apr,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,53,49.50
+25-Apr,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Single Origin,27,54.75
+28-Apr,Gold Coast,Northern Suburbs,Barista,2kg Dark Blend,129,61.45
+28-Apr,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,64,45.00
+1-May,Brisbane,Southern Suburbs,Barista,2kg Smooth Blend,77,57.90
+1-May,Sunshine Coast,Southern Suburbs,Barista,2kg Light Roast,63,54.75
+4-May,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Single Origin,105,54.75
+4-May,Brisbane,Southern Suburbs,Barista,2kg Light Roast,58,54.75
+7-May,Gold Coast,Northern Suburbs,Barista,2kg Dark Blend,138,61.45
+7-May,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,47,54.75
+10-May,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,33,61.45
+10-May,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,25,49.50
+13-May,Sunshine Coast,Southern Suburbs,Barista,2kg Light Roast,82,54.75
+13-May,Brisbane,Southern Suburbs,Premium,2kg Single Origin Select,21,73.25
+16-May,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,61,49.50
+16-May,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,58,49.50
+19-May,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,49,45.00
+19-May,Gold Coast,Southern Suburbs,Standard,4kg Everyday Blend,30,31.5
+22-May,Sunshine Coast,Northern Suburbs,Barista,2kg Light Roast,55,54.75
+22-May,Brisbane,Southern Suburbs,Barista,2kg Light Roast,43,54.75
+25-May,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,84,49.50
+25-May,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,27,57.90
+28-May,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,58,49.50
+28-May,Sunshine Coast,Southern Suburbs,Barista,2kg Smooth Blend,36,57.90
+31-May,Sunshine Coast,Southern Suburbs,Barista,2kg Dark Blend,44,61.45
+31-May,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,33,73.25
+3-Jun,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,288,61.45
+3-Jun,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Single Origin,27,54.75
+6-Jun,Gold Coast,Southern Suburbs,Barista,2kg Dark Blend,120,61.45
+6-Jun,Brisbane,Northern Suburbs,Barista,2kg Light Roast,76,54.75
+9-Jun,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,42,49.50
+9-Jun,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,26,73.25
+12-Jun,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,73,49.50
+12-Jun,Sunshine Coast,Southern Suburbs,Premium,2kg Single Origin Select,20,73.25
+15-Jun,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Blend,75,49.50
+15-Jun,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,38,54.75
+18-Jun,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,40,61.45
+18-Jun,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,38,73.25
+21-Jun,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,306,49.50
+21-Jun,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,41,49.50
+24-Jun,Brisbane,Southern Suburbs,Standard,2kg Everyday Blend,28,45.00
+24-Jun,Gold Coast,Southern Suburbs,Cafe,2kg Single Origin Custom,27,77.90
+27-Jun,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,110,54.75
+27-Jun,Gold Coast,Southern Suburbs,Barista,2kg Light Roast,38,54.75
+30-Jun,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,51,61.45
+30-Jun,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,34,73.25
+3-Jul,Brisbane,Southern Suburbs,Cafe,2kg Cafe Single Origin,65,54.75
+3-Jul,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,52,49.50
+6-Jul,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,60,61.45
+6-Jul,Sunshine Coast,Northern Suburbs,Premium,2kg Single Origin Select,28,73.25
+9-Jul,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Blend,136,49.50
+9-Jul,Brisbane,Northern Suburbs,Barista,2kg Smooth Blend,37,57.90
+12-Jul,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,42,73.25
+12-Jul,Brisbane,Northern Suburbs,Barista,2kg Light Roast,40,54.75
+15-Jul,Brisbane,Southern Suburbs,Barista,2kg Light Roast,75,54.75
+15-Jul,Sunshine Coast,Northern Suburbs,Cafe,2kg Cafe Single Origin,26,54.75
+18-Jul,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,72,54.75
+18-Jul,Gold Coast,Northern Suburbs,Cafe,2kg Single Origin Custom,22,77.90
+21-Jul,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,56,61.45
+21-Jul,Gold Coast,Southern Suburbs,Barista,2kg Light Roast,32,54.75
+24-Jul,Sunshine Coast,Northern Suburbs,Cafe,2kg Cafe Single Origin,51,54.75
+24-Jul,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,23,73.25
+27-Jul,Sunshine Coast,Southern Suburbs,Standard,2kg Everyday Blend,31,45.00
+27-Jul,Brisbane,Southern Suburbs,Barista,2kg Smooth Blend,20,57.90
+30-Jul,Brisbane,Southern Suburbs,Barista,2kg Light Roast,64,54.75
+30-Jul,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Single Origin,56,54.75
+2-Aug,Gold Coast,Southern Suburbs,Barista,2kg Dark Blend,137,61.45
+2-Aug,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,71,49.50
+5-Aug,Brisbane,Southern Suburbs,Barista,2kg Light Roast,107,54.75
+5-Aug,Sunshine Coast,Southern Suburbs,Barista,2kg Smooth Blend,90,57.90
+8-Aug,Sunshine Coast,Southern Suburbs,Barista,2kg Dark Blend,38,61.45
+8-Aug,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,24,49.50
+11-Aug,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,55,49.50
+11-Aug,Brisbane,Northern Suburbs,Premium,2kg Single Origin Select,30,73.25
+14-Aug,Sunshine Coast,Southern Suburbs,Barista,2kg Light Roast,70,54.75
+14-Aug,Gold Coast,Northern Suburbs,Standard,4kg Everyday Blend,22,31.5
+17-Aug,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,34,49.50
+17-Aug,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,31,57.90
+20-Aug,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Blend,109,49.50
+20-Aug,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,39,54.75
+23-Aug,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,41,61.45
+23-Aug,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,21,73.25
+26-Aug,Brisbane,Southern Suburbs,Barista,2kg Light Roast,80,54.75
+26-Aug,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,41,49.50
+29-Aug,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,136,57.90
+29-Aug,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,75,54.75
+1-Sep,Brisbane,Northern Suburbs,Barista,2kg Dark Blend,74,61.45
+1-Sep,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,25,49.50
+4-Sep,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,45,49.50
+4-Sep,Gold Coast,Southern Suburbs,Standard,4kg Everyday Blend,26,31.5
+7-Sep,Brisbane,Southern Suburbs,Cafe,2kg Cafe Single Origin,50,54.75
+7-Sep,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,28,57.90
+10-Sep,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Blend,143,49.50
+10-Sep,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,79,61.45
+13-Sep,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,30,49.50
+13-Sep,Gold Coast,Northern Suburbs,Standard,4kg Everyday Blend,27,31.5
+16-Sep,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,133,49.50
+16-Sep,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,20,45.00
+19-Sep,Brisbane,Northern Suburbs,Barista,2kg Smooth Blend,110,57.90
+19-Sep,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,49,49.50
+22-Sep,Brisbane,Northern Suburbs,Barista,2kg Light Roast,65,54.75
+22-Sep,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,40,57.90
+25-Sep,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Single Origin,33,54.75
+25-Sep,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,31,49.50
+28-Sep,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,81,57.90
+28-Sep,Gold Coast,Southern Suburbs,Standard,4kg Everyday Blend,21,31.5
+1-Oct,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,77,49.50
+1-Oct,Brisbane,Southern Suburbs,Cafe,2kg Cafe Single Origin,43,54.75
+4-Oct,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,47,61.45
+4-Oct,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,38,73.25
+7-Oct,Brisbane,Northern Suburbs,Barista,2kg Smooth Blend,175,57.90
+7-Oct,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,40,49.50
+10-Oct,Brisbane,Southern Suburbs,Standard,2kg Everyday Blend,114,45.00
+10-Oct,Brisbane,Northern Suburbs,Barista,2kg Light Roast,23,54.75
+13-Oct,Brisbane,Northern Suburbs,Barista,2kg Smooth Blend,224,57.90
+13-Oct,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,40,49.50
+16-Oct,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,141,49.50
+16-Oct,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,87,57.90
+19-Oct,Gold Coast,Northern Suburbs,Cafe,2kg Cafe Blend,43,49.50
+19-Oct,Brisbane,Northern Suburbs,Premium,2kg Single Origin Select,32,73.25
+22-Oct,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,30,73.25
+22-Oct,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,20,49.50
+25-Oct,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,40,57.90
+25-Oct,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,35,49.50
+28-Oct,Brisbane,Northern Suburbs,Cafe,2kg Cafe Single Origin,57,54.75
+28-Oct,Gold Coast,Northern Suburbs,Barista,2kg Light Roast,49,54.75
+31-Oct,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,46,73.25
+31-Oct,Brisbane,Northern Suburbs,Standard,2kg Everyday Blend,25,45.00
+3-Nov,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,39,49.50
+3-Nov,Sunshine Coast,Northern Suburbs,Barista,2kg Light Roast,24,54.75
+6-Nov,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Single Origin,83,54.75
+6-Nov,Brisbane,Southern Suburbs,Standard,2kg Everyday Blend,62,45.00
+9-Nov,Gold Coast,Northern Suburbs,Barista,2kg Dark Blend,124,61.45
+9-Nov,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,90,49.50
+12-Nov,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,137,49.50
+12-Nov,Sunshine Coast,Northern Suburbs,Barista,2kg Smooth Blend,103,57.90
+15-Nov,Brisbane,Northern Suburbs,Barista,2kg Smooth Blend,146,57.90
+15-Nov,Sunshine Coast,Southern Suburbs,Barista,2kg Dark Blend,32,61.45
+18-Nov,Gold Coast,Southern Suburbs,Cafe,2kg Cafe Single Origin,66,54.75
+18-Nov,Brisbane,Northern Suburbs,Barista,2kg Light Roast,34,54.75
+21-Nov,Gold Coast,Southern Suburbs,Barista,2kg Dark Blend,97,61.45
+21-Nov,Sunshine Coast,Southern Suburbs,Cafe,2kg Cafe Blend,20,49.50
+24-Nov,Gold Coast,Southern Suburbs,Barista,2kg Smooth Blend,139,57.90
+24-Nov,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,30,49.50
+27-Nov,Gold Coast,Northern Suburbs,Barista,2kg Light Roast,211,54.75
+27-Nov,Brisbane,Southern Suburbs,Standard,2kg Everyday Blend,29,45.00
+30-Nov,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,92,49.50
+30-Nov,Gold Coast,Southern Suburbs,Premium,2kg Single Origin Select,20,73.25
+3-Dec,Sunshine Coast,Northern Suburbs,Barista,2kg Smooth Blend,139,57.90
+3-Dec,Brisbane,Southern Suburbs,Cafe,2kg Cafe Single Origin,42,54.75
+6-Dec,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,100,61.45
+6-Dec,Sunshine Coast,Southern Suburbs,Barista,2kg Dark Blend,29,61.45
+9-Dec,Brisbane,Northern Suburbs,Cafe,2kg Cafe Blend,38,49.50
+9-Dec,Gold Coast,Southern Suburbs,Cafe,2kg Single Origin Custom,30,77.90
+12-Dec,Gold Coast,Northern Suburbs,Barista,2kg Light Roast,36,54.75
+12-Dec,Brisbane,Northern Suburbs,Premium,2kg Single Origin Select,25,73.25
+15-Dec,Sunshine Coast,Northern Suburbs,Barista,2kg Light Roast,96,54.75
+15-Dec,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,41,73.25
+18-Dec,Brisbane,Southern Suburbs,Cafe,2kg Cafe Blend,44,49.50
+18-Dec,Gold Coast,Northern Suburbs,Barista,2kg Smooth Blend,34,57.90
+21-Dec,Gold Coast,Northern Suburbs,Barista,2kg Light Roast,245,54.75
+21-Dec,Brisbane,Southern Suburbs,Standard,2kg Everyday Blend,29,45.00
+24-Dec,Brisbane,Northern Suburbs,Barista,2kg Smooth Blend,237,57.90
+24-Dec,Gold Coast,Northern Suburbs,Premium,2kg Single Origin Select,30,73.25
+27-Dec,Brisbane,Northern Suburbs,Barista,2kg Light Roast,65,54.75
+27-Dec,Brisbane,Southern Suburbs,Cafe,2kg Cafe Single Origin,30,54.75
+30-Dec,Sunshine Coast,Southern Suburbs,Barista,2kg Smooth Blend,83,57.90
+30-Dec,Brisbane,Southern Suburbs,Barista,2kg Dark Blend,44,61.45
